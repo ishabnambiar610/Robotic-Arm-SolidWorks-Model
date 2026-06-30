@@ -23,11 +23,12 @@ The Robotic Arm Using SolidWorks is a mechanical design and robotics project foc
 
 **Working Principle:**
 
-Base rotates to position the robotic arm.
-Shoulder joint raises and lowers the first arm link.
-Elbow joint controls the second arm link.
-Wrist adjusts the gripper orientation.
-Gripper grasps and releases objects.
+1. Base rotates to position the robotic arm.
+2. Shoulder joint raises and lowers the first arm link.
+3. Elbow joint controls the second arm link.
+4. Wrist adjusts the gripper orientation.
+5. Gripper grasps and releases objects.
+
 **Applications:** Industrial Automation, Pick-and-Place Operations, Material Handling, Educational Robotics, Assembly Line Automation, Research and Prototype Development.
 
 **Advantages:** High positioning accuracy, lightweight design, easy modification, smooth movement, and cost-effective prototype.
